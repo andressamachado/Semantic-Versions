@@ -7,7 +7,7 @@ require '../lib/version_manager'
 class VersionManagerTest < Minitest::Test
   def setup
     version_manager = VersionManager.new
-    @next_version = version_manager.method(:nextVersion)
+    @next_version = version_manager.method(:next_version)
   end
 
   def test_version_with_single_segment
