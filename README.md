@@ -1,6 +1,6 @@
 # Semantic Versions Assessment
 
-Welcome to my Semantic Versions assessment for the internship position and thank you for taking the time to evaluate it! 
+Welcome to my Semantic Versions assessment for the internship position and thank you for taking the time to evaluate it! 👩🏻‍💻 :))
 
 ## Directory Structure
 
